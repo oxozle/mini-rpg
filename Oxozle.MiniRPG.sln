@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oxozle.MiniRPG", "Oxozle.MiniRPG\Oxozle.MiniRPG.csproj", "{A64E86C5-75CC-445C-9C9D-A7586C9FA010}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oxozle.MiniRPG.Engine", "Oxozle.MiniRPG.Engine\Oxozle.MiniRPG.Engine.csproj", "{F87E2811-FC34-4AF7-8C9A-CFE58F7FCADB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oxozle.MiniRPG.GameConfig", "Oxozle.MiniRPG.GameConfig\Oxozle.MiniRPG.GameConfig.csproj", "{EA1F933F-39A9-4E94-BC67-8A2AB5F4BD09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oxozle.MiniRPG.Tests", "Oxozle.MiniRPG.Tests\Oxozle.MiniRPG.Tests.csproj", "{D8CDC015-2DDB-4677-99B4-FFBF621E16A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A64E86C5-75CC-445C-9C9D-A7586C9FA010}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A64E86C5-75CC-445C-9C9D-A7586C9FA010}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A64E86C5-75CC-445C-9C9D-A7586C9FA010}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A64E86C5-75CC-445C-9C9D-A7586C9FA010}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F87E2811-FC34-4AF7-8C9A-CFE58F7FCADB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F87E2811-FC34-4AF7-8C9A-CFE58F7FCADB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F87E2811-FC34-4AF7-8C9A-CFE58F7FCADB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F87E2811-FC34-4AF7-8C9A-CFE58F7FCADB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA1F933F-39A9-4E94-BC67-8A2AB5F4BD09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA1F933F-39A9-4E94-BC67-8A2AB5F4BD09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA1F933F-39A9-4E94-BC67-8A2AB5F4BD09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA1F933F-39A9-4E94-BC67-8A2AB5F4BD09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8CDC015-2DDB-4677-99B4-FFBF621E16A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8CDC015-2DDB-4677-99B4-FFBF621E16A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8CDC015-2DDB-4677-99B4-FFBF621E16A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8CDC015-2DDB-4677-99B4-FFBF621E16A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
